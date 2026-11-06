@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scipy/scipy-stubs/commit/1cd8e53887c29d864e605eb68a60fb278f3b8974",
       "git:hexsha": "1cd8e53887c29d864e605eb68a60fb278f3b8974",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scipy/scipy-stubs/commit/ccbcc55136cddd87c0fd795cea3d137e63e79277",
